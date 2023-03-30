@@ -1,4 +1,4 @@
-# Olá, sou o Caio Dias!!
+# Hi, I'm Caio Dias!!
 
 <div align="center">
   <a href="https://github.com/CaioLDias">
