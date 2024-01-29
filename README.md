@@ -17,7 +17,7 @@
 <details>
   <summary>🔍 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Brazil. I have fluency in English and experience with SQL, Python, Data Analysis, Data visualization with Power BI and Qlik Sense and Process Automation with Qlik NPrinting.
+  - 💬 I am 23 years old, currently living in Brazil. I have fluency in English and experience with SQL, Python, Data Analysis, Data visualization with Power BI & Qlik Sense and Process Automation with Qlik NPrinting.
 
 </details>
 
