@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Caio Dias! A Data Science student from Brazil.
+  Hi 👋, I'm Caio Dias! A Data Science fancier from Brazil.
 
   - 💹 I’m currently studying Computer Engineering at Facens <img align="center" width="70" height="20" alt="html5" src="https://mlogu6g7z5ex.i.optimole.com/cb:RF8R~518a6/w:500/h:159/q:90/ig:avif/f:best/https://facens.br/wp-content/uploads/2021/03/logo-f.png" />
 
@@ -17,7 +17,7 @@
 <details>
   <summary>🔍 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Brazil. I have fluency in English and experience with SQL, Python, Data Analysis, Data visualization with Power BI & Qlik Sense and Process Automation with Qlik NPrinting.
+  - 💬 I am 23 years old, currently living in Brazil. I have fluency in English and experience with SQL, Python, Data visualization with Power BI & Qlik Sense, dynamic KPI's and proccess automation with Qlik NPrinting.
 
 </details>
 
@@ -58,6 +58,7 @@
     <img align="center" alt="jupyter" height="30" width="40" src="https://www.svgrepo.com/show/373718/jupyter.svg">
     <img align="center" alt="mySql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
     <img align="center" alt="sqLite" height="30" width="40" src="https://www.svgrepo.com/show/374094/sqlite.svg">
+    <img align="center" alt="vba" height="50" width="50" src="https://www.svgrepo.com/show/374159/vba.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
