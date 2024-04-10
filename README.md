@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiolucasdias/)
 
 <!-- GithubStats -->
-![CaioLDias GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLDias&show_icons=true&theme=gotham)
+![CaioLDias GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLDias&show_icons=true&theme=react)
 
 <!-- GIF -->
 <p align="left">
