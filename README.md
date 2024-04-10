@@ -22,15 +22,11 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio_ldias/)
+[![Instagram](https://img.shields.io/badge/Website-ff4b4c?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.instagram.com/caio_ldias/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiolucasdias/)
 
 <!-- GithubStats -->
 ![CaioLDias GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLDias&show_icons=true&theme=gotham)
-
-<!-- Portfolio -->
-## Portfolio:
-- [Curriculum - Streamlit](https://caioldias.streamlit.app/)
 
 <!-- GIF -->
 <p align="left">
