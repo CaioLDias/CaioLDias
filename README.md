@@ -22,7 +22,7 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Website-ff4b4c?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.instagram.com/caio_ldias/)
+[![Instagram](https://img.shields.io/badge/Website-ff4b4c?style=for-the-badge&logo=streamlit&logoColor=white)](https://caioldias.streamlit.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiolucasdias/)
 
 <!-- GithubStats -->
