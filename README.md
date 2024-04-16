@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Caio Dias! A Data Science fancier from Brazil.
 
-  - 💹 I’m currently studying Computer Engineering at Facens <img align="center" width="70" height="20" alt="html5" src="https://mlogu6g7z5ex.i.optimole.com/cb:RF8R~518a6/w:500/h:159/q:90/ig:avif/f:best/https://facens.br/wp-content/uploads/2021/03/logo-f.png" />
+  - ✅ I’m currently studying Computer Engineering at Facens <img align="center" width="70" height="20" alt="html5" src="https://mlogu6g7z5ex.i.optimole.com/cb:RF8R~518a6/w:500/h:159/q:90/ig:avif/f:best/https://facens.br/wp-content/uploads/2021/03/logo-f.png" />
 
   - 👨‍💻 I am current working at Iveco Group as a Data Analyst.
 </p>
