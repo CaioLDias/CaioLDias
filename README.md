@@ -56,7 +56,6 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="jupyter" height="30" width="40" src="https://www.svgrepo.com/show/373718/jupyter.svg">
-    <img align="center" alt="mySql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
     <img align="center" alt="sqLite" height="30" width="40" src="https://www.svgrepo.com/show/374094/sqlite.svg">
     <img align="center" alt="vba" height="50" width="50" src="https://www.svgrepo.com/show/374159/vba.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
